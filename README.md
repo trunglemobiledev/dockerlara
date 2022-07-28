@@ -14,9 +14,13 @@ $ copy docker-compose.yml back to folder.
 ```
 $ docker build ./docker
 ```
+#### or use docker compose
+```
+$ docker-compose build
+```
 #### run docker
 ```
-$ docker-composer up
+$ docker-compose up
 ```
 
 #### delete image docker
